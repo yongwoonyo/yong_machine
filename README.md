@@ -10,4 +10,6 @@
 
 관심 있으신 분은 부담없이 컨택하세요
 
-yongwoonyo@gmail.com
+mail : yongwoonyo@gmail.com
+
+slack : beanbro.slack.com
