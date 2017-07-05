@@ -12,4 +12,4 @@
 
 mail : yongwoonyo@gmail.com
 
-slack : beanbro.slack.com
+slack : https://beanbro.slack.com/
